@@ -1,0 +1,3 @@
+include ':Application'
+include ':app'
+rootProject.name = "Leagues"
